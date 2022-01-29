@@ -1,3 +1,5 @@
+package first_lesson;
+
 import java.util.Scanner;
 
 import static java.lang.Math.*;
