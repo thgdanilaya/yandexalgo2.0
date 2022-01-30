@@ -29,6 +29,7 @@ public class third {
                 ans += 1;
             }
             ukaz1 -=1;
+
             ukaz2 +=1;
         }
         System.out.println(ans);
